@@ -3,7 +3,6 @@
 
 # Shopping-List-App
 
-This app will help you make a list of the things that you want to buy when you go shopping.
 
 # Description
 
