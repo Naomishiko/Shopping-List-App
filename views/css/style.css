@@ -1,0 +1,105 @@
+body {
+    background-image: url(./shopping-cart-blur-supermarket-background_36078-237.webp); 
+    background-size: cover;
+     padding: 7pc; 
+    color: black;
+    background-color: #eee;
+    border-radius: 10%;
+    width: 90%;
+    margin: 0 auto;
+    box-shadow: -1px -1px 6px 8px orangered;
+    width: 90vw;
+    height: 110vh;
+    font-size: 9em;
+    margin: 10px;
+    font-weight: bold;  
+    letter-spacing: 2px;
+    font-family:sans-serif;
+    
+}
+
+ 
+
+  h1 {
+    color: chocolate;
+    letter-spacing: 2px;
+    font-size: 2.8rem;
+    font-weight: bold;
+    box-shadow: rgb(171, 74, 39);
+    text-shadow: 0 0 0 0.45em;
+
+}
+
+
+
+ .container {
+    background-color: rgb(96, 231, 246);
+    border-radius: 10%;
+    width: 90%;
+    margin: 0 auto;
+    box-shadow: inset  0 0 0.8em 0 orangered;
+    position: relative; 
+    overflow-x: bold;
+    display: block;
+   
+   
+ }
+ 
+
+ .button {
+    display: inline-block;
+    border-radius: 15px;
+    border: 8px double #a28989;
+    color:#847070;
+    text-align: center;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 9px;
+    font-size: 38px;
+    padding: 24px;
+    width: 200px;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+  }
+  
+/* .category {
+    background-color: red; */
+
+
+
+
+
+ .botton { 
+     /* --clr-neon: hsl(317 100% 54%); */
+    --clr-bg: hsl(323 21% 16%);
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+.btn-success{
+    color: var(--clr-neon)
+} 
+
+.body {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+/* 
+ @keyframes effects {
+     50%{
+         text-shadow: 0px -4px 8px yellow;
+     }
+ 
+  }
+  
+  @keyframes colorchange {
+      to{filter: hue-rotate(360deg)};
+  } */
