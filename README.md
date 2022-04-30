@@ -12,7 +12,7 @@ Shopping list is one tool that may help you to navigate complicated food marketi
 # Stack
 
 This project was made using
-#HTML5 #CSS #JAVASCRIPT #EJS #GOOGLE #YOUTUBE
+#CSS #JAVASCRIPT #EJS #GOOGLE #YOUTUBE
 
 
 # Home Page photos
