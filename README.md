@@ -3,6 +3,8 @@
 
 # Shopping-List-App
 
+This app will help you make a list of the things that you want to buy when you go shopping.
+
 # Description
 
 Shopping list is one tool that may help you to navigate complicated food marketing environments. This app will help you make a list of the things that you want to buy when you go shopping.
