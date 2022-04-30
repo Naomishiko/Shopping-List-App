@@ -1,5 +1,6 @@
+<img width="1440" alt="shopping-list-app" src="https://user-images.githubusercontent.com/98294096/166103345-8bc4fed6-98b6-4f23-bb60-b6fadbb190aa.png">
 
-<img width="1440" alt="project-2-shopping-list" src="https://user-images.githubusercontent.com/98294096/166087393-c40705bf-ed72-434c-8ae7-a44ce630f81b.png">
+
 
 # Shopping-List-App
 
@@ -18,7 +19,7 @@ This project was made using
 
 # Home Page photos
 
-<img width="1440" alt="project-2-shopping-list" src="https://user-images.githubusercontent.com/98294096/166088028-38e97f99-b5d0-454a-a078-a770cb31b165.png">
+<img width="1440" alt="shopping-list-app" src="https://user-images.githubusercontent.com/98294096/166103350-37cdf889-32cb-49c9-82bd-93e1f1a57f34.png">
 
 # Site Map
 
