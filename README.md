@@ -8,7 +8,7 @@
 
 # Description
 
-Shopping list is one tool that may help you to navigate complicated food marketing environments. This app will help you make a list of the things that you want to buy when you go shopping.
+Shopping list is one tool that may help you to navigate complicated food marketing environments. This app will help you make a list of the things that you want to buy when you go shopping. You can also login in to your favorite social media down below 😃
 
 
 
