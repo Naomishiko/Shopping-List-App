@@ -15,8 +15,14 @@ Shopping list is one tool that may help you to navigate complicated food marketi
 # Stack
 
 This project was made using
-#CSS #JAVASCRIPT #EJS #GOOGLE #YOUTUBE
-
+HTML5
+CSS
+EJS
+JavaScript
+Bootstrap
+Node.js
+Mongoose
+Express
 
 # Home Page photos
 
